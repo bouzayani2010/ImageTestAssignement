@@ -1,0 +1,21 @@
+
+Lsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+dsquid:CallToDeprecatedMethod"9Remove this use of "DefaultHttpClient"; it is deprecated.(ÇŸ´•ÿÿÿÿÿ
+Usquid:CallToDeprecatedMethod"/Remove this use of "HttpGet"; it is deprecated.(¾²
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+5squid:S1170"!Make this final field static too.(Ÿ±õE
+dsquid:CallToDeprecatedMethod"9Remove this use of "DefaultHttpClient"; it is deprecated.(ÇŸ´•ÿÿÿÿÿ
+osquid:S00116"TRename this field "error_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”şÑœúÿÿÿÿ
+Zsquid:CallToDeprecatedMethod"4Remove this use of "HttpResponse"; it is deprecated.(ø«ÁÄ
+`squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ
+ssquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "b".(Ë®†üÿÿÿÿ
+Xsquid:CallToDeprecatedMethod"2Remove this use of "HttpEntity"; it is deprecated.(ı‚Š€
+]squid:CallToDeprecatedMethod"2Remove this use of "HttpStatus"; it is deprecated.(÷æÄ®øÿÿÿÿ
+Ssquid:S2168"9Remove this dangerous instance of double-checked locking.(‹áö’ÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú¤Ñòüÿÿÿÿ
+Asquid:S1068",Remove this unused "diskCash" private field.(¢Ø·Ç
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾÷¦Ìøÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼µ¹áÿÿÿÿÿ
+8squid:S1148"#Use a logger to log this exception.(ş•§Ô
+Gsquid:S1481"-Remove this unused "response" local variable.(ü…»Óşÿÿÿÿ
+Usquid:CallToDeprecatedMethod"/Remove this use of "HttpGet"; it is deprecated.(¾²
