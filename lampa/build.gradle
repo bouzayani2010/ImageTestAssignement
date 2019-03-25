@@ -54,6 +54,7 @@ ext {
 
     developerId = 'lissf'
     developerName = 'Yegor Zatsepin'
+
     developerEmail = 'Liss_F@ukr.net'
 
     licenseName = 'The Apache Software License, Version 2.0'
