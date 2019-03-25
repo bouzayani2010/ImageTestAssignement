@@ -47,19 +47,20 @@ ext {
 
     libraryDescription = 'This view is a container that supports diagonal scroll and fling gesture. It is based on AOSP HorizontalScrollView.'
 
-    siteUrl = 'https://github.com/LissF/DiagonalScrollView'
-    gitUrl = 'https://github.com/LissF/DiagonalScrollView.git'
+    siteUrl = 'https://github.com/bouzayani2010/ImageTestAssignement'
+    gitUrl = 'https://github.com/bouzayani2010/ImageTestAssignement.git'
 
     libraryVersion = '0.3.3'
 
     developerId = 'lissf'
-    developerName = 'Yegor Zatsepin'
+    developerName = 'Belgacem Bouzayani'
 
-    developerEmail = 'Liss_F@ukr.net'
+    developerEmail = 'kacem.bouzayani@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
     allLicenses = ["Apache-2.0"]
+
 }
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
