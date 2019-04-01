@@ -32,6 +32,8 @@ buildscript {
     }
 }
 apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.bouzayani2010'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
