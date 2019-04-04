@@ -1,8 +1,0 @@
-
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(φΓ“ÿ8ργ¤›-
-Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ργ¤›-
-zsquid:S1450"YRemove the "avatarView" field and declare it as a local variable in the relevant methods.(β£±ώÿÿÿÿ8ργ¤›-
-zsquid:S1450"YRemove the "btn_submit" field and declare it as a local variable in the relevant methods.(‚Άÿÿÿÿÿ8ργ¤›-
-fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ΛΫΩ
-8ργ¤›-
-wsquid:S00116"URename this field "btn_submit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Άÿÿÿÿÿ8ργ¤›-

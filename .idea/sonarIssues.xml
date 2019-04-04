@@ -23,6 +23,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lamp/imagetestassignement/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/lamp/imagetestassignement/task/ImageDownloader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/mylivn/imagetestassignement/MainActivity.java">
           <value>
             <set />
@@ -98,6 +108,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/lampa/src/main/java/com/bel/lampa/CustomProgressBar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/lampa/src/main/java/com/bel/lampa/loader/Lamp.java">
           <value>
             <set />
@@ -169,6 +184,46 @@
           </value>
         </entry>
         <entry key="D:/workspace/Bbtools/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/adapter/NotesAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/bean/Note.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/fragments/CustomLoad.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/fragments/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/java/com/project/bbtools/fragments/RxAndroid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/res/layout/customload.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/workspace/Bbtools/app/src/main/res/layout/fragment_home.xml">
           <value>
             <set />
           </value>

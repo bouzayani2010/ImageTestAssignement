@@ -68,7 +68,7 @@ public class CustomProgressBar extends View {
     private void initUI() {
         paint = new Paint();
         paint.setAntiAlias(true);
-        paint.setStrokeWidth(Utils.dpTopx(getContext(), 3));
+        paint.setStrokeWidth(Utils.dpTopx(getContext(), 5));
         paint.setStyle(Paint.Style.STROKE);
         paint.setColor(color);
 
@@ -76,7 +76,7 @@ public class CustomProgressBar extends View {
         mPaintProgress = new Paint();
         mPaintProgress.setAntiAlias(true);
         mPaintProgress.setStyle(Paint.Style.STROKE);
-        mPaintProgress.setStrokeWidth(Utils.dpTopx(getContext(), 3));
+        mPaintProgress.setStrokeWidth(Utils.dpTopx(getContext(), 5));
         mPaintProgress.setColor(color_progress);
         Log.i("circlecolor 1", "::" + color_progress);
 

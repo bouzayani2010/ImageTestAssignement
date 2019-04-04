@@ -1,8 +1,6 @@
 
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-s
-Capp/src/main/java/com/mylivn/imagetestassignement/MainActivity.java,a\c\ac294c39062f6558b5351e06610c606f3d39ee1e
 R
 "lampa/src/main/AndroidManifest.xml,7\6\76a8054379204447ffc6b4d622416dddd49e1fd9
 B
@@ -17,3 +15,5 @@ a
 local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
 @
 lampa/.gitignore,d\e\de42974da21028f1ffed64a8821a1b2af846bd88
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35

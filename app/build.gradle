@@ -8,7 +8,7 @@ android {
     useLibrary 'org.apache.http.legacy'
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.mylivn.imagetestassignement"
+        applicationId "com.lamp.imagetestassignement"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
@@ -31,5 +31,6 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation project(':lampa')
+    implementation 'com.github.bouzayani2010:ImageTestAssignement:1.0'
+  //  implementation project(':lampa')
 }
